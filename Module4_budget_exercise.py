@@ -3,3 +3,5 @@ sum = 0.0
 for spending in spendings:
     sum += spending
 print('Money spent:', sum)
+
+
