@@ -16,7 +16,7 @@ for i in range(1000):
         continue
     else:
         number = random.randint(0,100)
-        
+    print("wrong number")
 print(i, number)
 
 ############################
